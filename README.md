@@ -507,6 +507,12 @@ This repository serves as a comprehensive collection of resources for anyone wor
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public datasets including language data.
 - [Awesome Localization](https://github.com/FNGR/awesome-localization) - Software localization resources.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -2061,3 +2067,22 @@ This list is maintained by the community and relies on contributions from profes
 **Usage Guidelines:** While every effort has been made to ensure accuracy and relevance, users should verify information independently, especially for critical professional applications. Resource availability and URLs may change over time.
 
 **Last Updated:** This list is continuously maintained and updated by the community. Check the repository for the most recent version.
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [ai-translation](https://github.com/awesome-german/ai-translation): Neural translation tools and multilingual corpus alignment techniques for German.
+- [business](https://github.com/awesome-german/business): Resources and guides for mastering professional communication in German-speaking workplaces.
+- [academic-corpora](https://github.com/awesome-german/academic-corpora): Academic texts and linguistic corpora for German language research.
+- [vocabulary](https://github.com/awesome-german/vocabulary): Curated resources and tools to expand German vocabulary by topic, frequency, and context.
+
+<!-- END gh-mutual-linking -->
